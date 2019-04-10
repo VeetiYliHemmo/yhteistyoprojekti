@@ -1,14 +1,16 @@
 Rekisteri- ja tietosuojaseloste
-Tämä on Partiopukinkontin henkilötietolain (10 ja 24 §) ja EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste. Laadittu 10.4.2019 Viimeisin muutos 10.4.2019.
+TÃ¤mÃ¤ on Partiopukinkontin henkilÃ¶tietolain (10 ja 24 Â§) ja EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste. Laadittu 10.4.2019 Viimeisin muutos 10.4.2019.
 
  
 
-1. Rekisterinpitäjä
+1. RekisterinpitÃ¤jÃ¤
 Partiopukinkontti, Hepolamminkatu 10, 33710 Tampere
  
 
-2. Rekisteristä vastaava yhteyshenkilö
-<insert>
+2. RekisteristÃ¤ vastaava yhteyshenkilÃ¶
+Riku Vesanto riku.vesanto@edu.tampere.fi
+Veeti Yli-Hemmo veeti.yli-hemmo@edu.tampere.fi
+Miko Rapo miko.rapo@edu.tampere.fi
 
  
 
@@ -17,48 +19,48 @@ Yrityksen asiakasrekisteri
 
  
 
-4. Oikeusperuste ja henkilötietojen käsittelyn tarkoitus
+4. Oikeusperuste ja henkilÃ¶tietojen kÃ¤sittelyn tarkoitus
 
-EU:n yleisen tietosuoja-asetuksen mukainen oikeusperuste henkilötietojen käsittelylle on
-- henkilön suostumus (dokumentoitu, vapaaehtoinen, yksilöity, tietoinen ja yksiselitteinen)
-- sopimus, jossa rekisteröity on osapuolena
-- laki (mikä)
-- julkisen tehtävän hoitaminen (mihin perustuu), tai
-- rekisterinpitäjän oikeutettu etu (esim. asiakassuhde, työsuhde, jäsenyys).
+EU:n yleisen tietosuoja-asetuksen mukainen oikeusperuste henkilÃ¶tietojen kÃ¤sittelylle on
+- henkilÃ¶n suostumus (dokumentoitu, vapaaehtoinen, yksilÃ¶ity, tietoinen ja yksiselitteinen)
+- sopimus, jossa rekisterÃ¶ity on osapuolena
+- laki (mikÃ¤)
+- julkisen tehtÃ¤vÃ¤n hoitaminen (mihin perustuu), tai
+- rekisterinpitÃ¤jÃ¤n oikeutettu etu (esim. asiakassuhde, tyÃ¶suhde, jÃ¤senyys).
 
-Henkilötietojen käsittelyn tarkoitus on yhteydenpito asiakkaisiin, asiakassuhteen ylläpito, markkinointi tms.
+HenkilÃ¶tietojen kÃ¤sittelyn tarkoitus on yhteydenpito asiakkaisiin, asiakassuhteen yllÃ¤pito, markkinointi tms.
 
-Tietoja ei käytetä automatisoituun päätöksentekoon tai profilointiin. 
-
- 
-
-5. Rekisterin tietosisältö
-Rekisteriin tallennettavia tietoja ovat: henkilön nimi, yhteystiedot (puhelinnumero, sähköpostiosoite)
-
-
-6. Säännönmukaiset tietolähteet
-
-Rekisteriin tallennettavat tiedot saadaan asiakkaalta mm. www-lomakkeilla lähetetyistä viesteistä, sähköpostitse, puhelimitse, sosiaalisen median palvelujen kautta, sopimuksista, asiakastapaamisista ja muista tilanteista, joissa asiakas luovuttaa tietojaan.
+Tietoja ei kÃ¤ytetÃ¤ automatisoituun pÃ¤Ã¤tÃ¶ksentekoon tai profilointiin. 
 
  
 
-7. Tietojen säännönmukaiset luovutukset ja tietojen siirto EU:n tai ETA:n ulkopuolelle
+5. Rekisterin tietosisÃ¤ltÃ¶
+Rekisteriin tallennettavia tietoja ovat: henkilÃ¶n nimi, yhteystiedot (puhelinnumero, sÃ¤hkÃ¶postiosoite)
 
-Tietoja ei luovuteta säännönmukaisesti muille tahoille. Tietoja voidaan julkaista siltä osin kuin niin on sovittu asiakkaan kanssa.
 
-Tietoja voidaan siirtää rekisterinpitäjän toimesta myös EU:n tai ETA:n ulkopuolelle.
+6. SÃ¤Ã¤nnÃ¶nmukaiset tietolÃ¤hteet
+
+Rekisteriin tallennettavat tiedot saadaan asiakkaalta mm. www-lomakkeilla lÃ¤hetetyistÃ¤ viesteistÃ¤, sÃ¤hkÃ¶postitse, puhelimitse, sosiaalisen median palvelujen kautta, sopimuksista, asiakastapaamisista ja muista tilanteista, joissa asiakas luovuttaa tietojaan.
+
+ 
+
+7. Tietojen sÃ¤Ã¤nnÃ¶nmukaiset luovutukset ja tietojen siirto EU:n tai ETA:n ulkopuolelle
+
+Tietoja ei luovuteta sÃ¤Ã¤nnÃ¶nmukaisesti muille tahoille. Tietoja voidaan julkaista siltÃ¤ osin kuin niin on sovittu asiakkaan kanssa.
+
+Tietoja voidaan siirtÃ¤Ã¤ rekisterinpitÃ¤jÃ¤n toimesta myÃ¶s EU:n tai ETA:n ulkopuolelle.
 
 
 
 8. Rekisterin suojauksen periaatteet
-Rekisterin käsittelyssä noudatetaan huolellisuutta ja tietojärjestelmien avulla käsiteltävät tiedot suojataan asianmukaisesti. Kun rekisteritietoja säilytetään Internet-palvelimilla, niiden laitteiston fyysisestä ja digitaalisesta tietoturvasta huolehditaan asiaankuuluvasti. Rekisterinpitäjä huolehtii siitä, että tallennettuja tietoja sekä palvelimien käyttöoikeuksia ja muita henkilötietojen turvallisuuden kannalta kriittisiä tietoja käsitellään luottamuksellisesti ja vain niiden työntekijöiden toimesta, joiden työnkuvaan se kuuluu.
+Rekisterin kÃ¤sittelyssÃ¤ noudatetaan huolellisuutta ja tietojÃ¤rjestelmien avulla kÃ¤siteltÃ¤vÃ¤t tiedot suojataan asianmukaisesti. Kun rekisteritietoja sÃ¤ilytetÃ¤Ã¤n Internet-palvelimilla, niiden laitteiston fyysisestÃ¤ ja digitaalisesta tietoturvasta huolehditaan asiaankuuluvasti. RekisterinpitÃ¤jÃ¤ huolehtii siitÃ¤, ettÃ¤ tallennettuja tietoja sekÃ¤ palvelimien kÃ¤yttÃ¶oikeuksia ja muita henkilÃ¶tietojen turvallisuuden kannalta kriittisiÃ¤ tietoja kÃ¤sitellÃ¤Ã¤n luottamuksellisesti ja vain niiden tyÃ¶ntekijÃ¶iden toimesta, joiden tyÃ¶nkuvaan se kuuluu.
 
  
 
 9. Tarkastusoikeus ja oikeus vaatia tiedon korjaamista
-Jokaisella rekisterissä olevalla henkilöllä on oikeus tarkistaa rekisteriin tallennetut tietonsa ja vaatia mahdollisen virheellisen tiedon korjaamista tai puutteellisen tiedon täydentämistä. Mikäli henkilö haluaa tarkistaa hänestä tallennetut tiedot tai vaatia niihin oikaisua, pyyntö tulee lähettää sähköisesti rekisterinpitäjälle. Rekisterinpitäjä voi pyytää tarvittaessa pyynnön esittäjää todistamaan henkilöllisyytensä. Rekisterinpitäjä vastaa asiakkaalle EU:n tietosuoja-asetuksessa säädetyssä ajassa (pääsääntöisesti kuukauden kuluessa).
+Jokaisella rekisterissÃ¤ olevalla henkilÃ¶llÃ¤ on oikeus tarkistaa rekisteriin tallennetut tietonsa ja vaatia mahdollisen virheellisen tiedon korjaamista tai puutteellisen tiedon tÃ¤ydentÃ¤mistÃ¤. MikÃ¤li henkilÃ¶ haluaa tarkistaa hÃ¤nestÃ¤ tallennetut tiedot tai vaatia niihin oikaisua, pyyntÃ¶ tulee lÃ¤hettÃ¤Ã¤ sÃ¤hkÃ¶isesti rekisterinpitÃ¤jÃ¤lle. RekisterinpitÃ¤jÃ¤ voi pyytÃ¤Ã¤ tarvittaessa pyynnÃ¶n esittÃ¤jÃ¤Ã¤ todistamaan henkilÃ¶llisyytensÃ¤. RekisterinpitÃ¤jÃ¤ vastaa asiakkaalle EU:n tietosuoja-asetuksessa sÃ¤Ã¤detyssÃ¤ ajassa (pÃ¤Ã¤sÃ¤Ã¤ntÃ¶isesti kuukauden kuluessa).
 
  
 
-10. Muut henkilötietojen käsittelyyn liittyvät oikeudet
-Rekisterissä olevalla henkilöllä on oikeus pyytää häntä koskevien henkilötietojen poistamiseen rekisteristä ("oikeus tulla unohdetuksi"). Niin ikään rekisteröidyillä on muut EU:n yleisen tietosuoja-asetuksen mukaiset oikeudet kuten henkilötietojen käsittelyn rajoittaminen tietyissä tilanteissa. Pyynnöt tulee lähettää sähköisesti rekisterinpitäjälle. Rekisterinpitäjä voi pyytää tarvittaessa pyynnön esittäjää todistamaan henkilöllisyytensä. Rekisterinpitäjä vastaa asiakkaalle EU:n tietosuoja-asetuksessa säädetyssä ajassa (pääsääntöisesti kuukauden kuluessa).
+10. Muut henkilÃ¶tietojen kÃ¤sittelyyn liittyvÃ¤t oikeudet
+RekisterissÃ¤ olevalla henkilÃ¶llÃ¤ on oikeus pyytÃ¤Ã¤ hÃ¤ntÃ¤ koskevien henkilÃ¶tietojen poistamiseen rekisteristÃ¤ ("oikeus tulla unohdetuksi"). Niin ikÃ¤Ã¤n rekisterÃ¶idyillÃ¤ on muut EU:n yleisen tietosuoja-asetuksen mukaiset oikeudet kuten henkilÃ¶tietojen kÃ¤sittelyn rajoittaminen tietyissÃ¤ tilanteissa. PyynnÃ¶t tulee lÃ¤hettÃ¤Ã¤ sÃ¤hkÃ¶isesti rekisterinpitÃ¤jÃ¤lle. RekisterinpitÃ¤jÃ¤ voi pyytÃ¤Ã¤ tarvittaessa pyynnÃ¶n esittÃ¤jÃ¤Ã¤ todistamaan henkilÃ¶llisyytensÃ¤. RekisterinpitÃ¤jÃ¤ vastaa asiakkaalle EU:n tietosuoja-asetuksessa sÃ¤Ã¤detyssÃ¤ ajassa (pÃ¤Ã¤sÃ¤Ã¤ntÃ¶isesti kuukauden kuluessa).
