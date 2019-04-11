@@ -1,0 +1,103 @@
+@charset "utf-8";
+
+body {
+	max-width: 700px;
+	margin: auto;
+	background-color: hsla(0,0%,100%,0.50);
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-top: 10px;
+	padding-bottom: 50px;
+	margin-bottom: -150px;
+	
+}
+
+html {
+	background-color: #1B1387;
+	background-image: -webkit-linear-gradient(270deg,rgba(27,19,135,1.00) 0%,rgba(36,136,179,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(27,19,135,1.00) 0%,rgba(36,136,179,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(27,19,135,1.00) 0%,rgba(36,136,179,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(27,19,135,1.00) 0%,rgba(36,136,179,1.00) 100%);
+	padding-bottom: 200px;
+}
+
+.linkit {font-size: 22px;
+		color: white;
+		font-family: 'Arima Madurai', cursive;
+		text-align: center;
+		margin-top: -25px;}
+
+.linkit a:link {color: #ffffff; text-decoration: none;}
+
+.linkit a:visited {color: #ffffff; text-decoration: none;}
+
+.linkit a:hover {color: #1B1387; 
+text-shadow: 1px 1px 5px rgba(0,0,0,1.00);}
+
+.linkit a:active {color: #1B1387; text-decoration: none;}
+
+.otsikko {color: white;
+		text-decoration: none;}
+		
+p a {color: #1B1387;
+	text-decoration: none;}
+	
+p a:hover {color: #000000; 
+text-shadow: 0px 0px 1px rgba(0,0,0,1.00);}
+
+h1 {
+	color: white;
+	text-shadow: 0px 0px 15px #1D2E2D;
+	font-family: 'Rye', cursive;
+	font-size: 75px;
+	text-align: center;
+	letter-spacing: 2px;
+	font-weight: 100;
+	}
+	
+h2 {
+	color: white;
+	text-shadow: 0px 0px 5px #1D2E2D;
+	font-family: 'Arima Madurai', cursive;
+	font-size: 30px;
+	margin-bottom: -15px;
+	}
+	
+p, li, table {font-family: Arial,sans-serif;
+	margin-left: 5px;}
+	
+form {max-width: 400px;
+	margin-left: auto;
+	margin-right: auto;}
+
+.tiedot {
+	margin-left: 20px;
+}
+.levee {
+	width: 100%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	font-size: 16px;
+	font-family: Arial,sans-serif;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	padding-left: 5px;
+	}
+	
+.nappi {
+	width: 20%;
+	background-color: rgba(36,136,179,0.90);
+	border: thin solid rgba(30,117,154,1.00);
+	padding-top: 6px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+	font-size: 17px;
+	color: #FFFFFF;
+	font-weight: bolder;
+	border-radius: 3px;
+}
