@@ -13,7 +13,31 @@
 	<link rel="shortcut icon" type="image/png" href="./images/logo.png"/>
 	
 	<link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet">
-	
+	<style>
+#div1, #div2 {
+  float: left;
+  width: 100px;
+  height: 35px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+}
+</style>
+<script>
+function allowDrop(ev) {
+  ev.preventDefault();
+}
+
+function drag(ev) {
+  ev.dataTransfer.setData("text", ev.target.id);
+}
+
+function drop(ev) {
+  ev.preventDefault();
+  var data = ev.dataTransfer.getData("text");
+  ev.target.appendChild(document.getElementById(data));
+}
+</script>
 	
 </head>
 
@@ -48,13 +72,12 @@
 					<img src="./images/banner.png" class="banner" alt="banner">
 				
 				</header>
-			
-				<h1 class="title1">Tyyliopas</h1><br>
-				
-				<p> Tähän tulee tekstiä:</p>
-				
-				<ul class="main-ul">
-				<li class="main-li">Tähän tulee lisää tekstiä</li>
+
+<div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)">
+  <p draggable="true" ondragstart="drag(event)" id="drag1" width="88" height="31">testi</p>
+</div>
+
+<div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
 				</ul>
 				
 
